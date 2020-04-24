@@ -25,10 +25,8 @@ kiwisolver==1.2.0
 Markdown==3.2.1
 MarkupSafe==1.1.1
 marshmallow==2.21.0
-matplotlib==3.2.1
 numpy==1.18.2
 opt-einsum==3.2.0
-pandas==1.0.3
 pathlib2==2.3.5
 Pillow==7.1.1
 protobuf==3.11.3
@@ -39,10 +37,11 @@ PyYAML==5.3.1
 raven==6.10.0
 requests==2.23.0
 requests-toolbelt==0.9.1
-scipy==1.4.1
-selenium==3.141.0
 six==1.14.0
 tabulate==0.8.7
+tensorboard==1.15.0
+tensorflow==1.15.0
+tensorflow-estimator==1.15.1
 termcolor==1.1.0
 urllib3==1.25.8
 Werkzeug==1.0.1
